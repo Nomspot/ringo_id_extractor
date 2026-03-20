@@ -1,0 +1,12 @@
+selenium
+undetected-chromedriver
+pandas
+requests
+tqdm
+tenacity
+pillow
+
+google-generativeai
+google-cloud-storage
+google-api-core
+vertexai
